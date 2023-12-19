@@ -1,0 +1,25 @@
+.section-about {
+  .section-about-header {
+    padding    : 20px 10px;
+    font-weight: bold;
+  }
+
+  .section-about-content {
+    display: flex;
+    gap    : 15px;
+
+    .content-left {
+      width: 60%;
+    }
+
+    .content-right {
+      width: 40%;
+
+      p {
+        text-align: justify;
+        font-style: italic;
+        padding   : 15px;
+      }
+    }
+  }
+}

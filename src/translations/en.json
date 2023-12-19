@@ -1,0 +1,134 @@
+{
+  "home-header": {
+    "specialty": "Medical specialty",
+    "search-doctor": "Find a doctor by specialty",
+    "health-facility": "health-facility",
+    "select-room": "Choose hospital clinic",
+    "doctor": "Doctor",
+    "select-doctor": "Choose a good doctor",
+    "fee": "Examination package",
+    "check-health": "General health check",
+    "support": "Support",
+    "welcome": "Welcome",
+    "login": "Login"
+  },
+  "banner": {
+    "title1": "MEDICAL PLATFORM",
+    "title2": "COMPREHENSIVE HEALTH CARE",
+    "check-specialty": "Specialized examination",
+    "remote": "Remote examination",
+    "general": "General examination",
+    "test": "Medical test",
+    "mental": "Mental health",
+    "dental": "Dental examination"
+  },
+  "menu": {
+    "admin": {
+      "manage-user": "Users System",
+      "manage-doctor": "Manage doctors",
+      "manage-admin": "Manage admins",
+      "crud": "CRUD user",
+      "crud-redux": "CRUD Redux",
+      "clinic": "Clinics",
+      "manage-clinic": "Manage clinics",
+      "add-clinic": "Add clinic",
+      "specialty": "Specialties",
+      "manage-specialty": "Manage specialties",
+      "name-clinic": "Clinic name",
+      "address-clinic": "Clinic address",
+      "photo-clinic": "Clinic photo",
+      "save-clinic": "Save",
+      "photo-specialty": "Specialty photo"
+    },
+    "doctor": {
+      "manage-schedule": "Manage Doctor's schedule",
+      "manage-patient": "Manage Doctor's patient"
+    }
+  },
+  "manage-user": {
+    "add": "Add a new user",
+    "email": "Email",
+    "password": "Password",
+    "first-name": "First name",
+    "last-name": "Last name",
+    "phone-number": "Phone number",
+    "address": "Address",
+    "gender": "Gender",
+    "position": "Position",
+    "role": "Role",
+    "image": "Avatar",
+    "save": "Save user",
+    "edit": "Edit user"
+  },
+  "homepage": {
+    "outstanding-doctor": "Last week's featured doctor",
+    "more-info": "More info",
+    "popular-specialty": "Popular specialties",
+    "clinic-popular": "Popular Clinic"
+  },
+  "manage-schedule": {
+    "title": "Manage doctor's examination plan",
+    "choose-doctor": "Choose Doctor",
+    "choose-date": "Choose Date",
+    "save": "Save infor"
+  },
+  "patient": {
+    "detail-doctor": {
+      "schedule": "Schedule",
+      "no-schedule": "The doctor does not have an appointment during this time, please choose another time!",
+      "choose": "Choose ",
+      "book-free": " and book (free)"
+    },
+    "extra-infor-doctor": {
+      "text-address": "Address of examination",
+      "price": "Examination price:",
+      "detail": "See details",
+      "payment": "The patient can pay the cost in the form of: ",
+      "hide-price": "Hide price list"
+    },
+    "booking-modal": {
+      "title": "Information to book a medical appointment",
+      "fullName": "Full name",
+      "phonenumber": "Phone Number",
+      "email": "Email",
+      "address": "Address",
+      "reason": "Reason for examination",
+      "birthday": "Date of birth",
+      "gender": "Genders",
+      "btnConfirm": "Confirm",
+      "btnCancel": "Cancel",
+      "priceBooking": "Free booking",
+      "price": "Price: ",
+      "phoneNumber": "Phone Number"
+    }
+  },
+  "admin": {
+    "manage-doctor": {
+      "title": "Create more information doctors",
+      "select-doctor": "Select doctor",
+      "intro": "Introduction:",
+      "add": "Create Information",
+      "save": "Save Information",
+      "price": "Price",
+      "payment": "Payment",
+      "province": "Province",
+      "nameClinic": "Clinic's name",
+      "addressClinic": "Clinic's address",
+      "note": "Note",
+      "specialty": "Specialty",
+      "select-clinic": "Clinic"
+    },
+    "manage-clinic": {
+      "select-clinic": "Select Clinic",
+      "upload-photo": "Upload photo",
+      "Delete-btn": "Delete"
+    },
+    "manage-specialty": {
+      "name-specialty": "Specialty name"
+    }
+  },
+  "verifyEmail": {
+    "succeed": "Successfully confirmed medical appointment!",
+    "fail": "Appointment schedule does not exist or has been confirmed"
+  }
+}

@@ -1,0 +1,29 @@
+.section-outstanding-doctor {
+  .outer-bg {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+
+  .position {
+    .name {
+      margin-top: 25px;
+      font-size: 15px;
+      text-align: center;
+      color: black;
+      transition: color 0.3s;
+    }
+
+    .name:hover {
+      color: blue;
+    }
+
+    p {
+      font-size: 12px;
+    }
+  }
+
+  .slick-slide > div {
+    padding: 10px 5px;
+  }
+}
